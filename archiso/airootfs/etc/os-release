@@ -1,5 +1,5 @@
-NAME="CachyOS"
-PRETTY_NAME="CachyOS"
+NAME="PendoLinux"
+PRETTY_NAME="Pendo Linux"
 ID=arch
 BUILD_ID=rolling
 ANSI_COLOR="38;2;23;147;209"
