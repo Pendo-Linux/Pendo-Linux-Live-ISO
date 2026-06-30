@@ -1,8 +1,8 @@
-These are the basic needed files and folders to build CachyOS system.
+These are the basic needed files and folders to build PendoLinux system.
 
 ### buildiso
 
-buildiso is used to build CachyOS ISO.
+buildiso is used to build PendoLinux ISO.
 
 #### Arguments
 
@@ -30,8 +30,8 @@ sudo pacman -S archiso mkinitcpio-archiso git squashfs-tools grub --needed
 
 ### Clone:
 ```bash
-git clone https://github.com/cachyos/cachyos-live-iso.git cachyos-archiso
-cd cachyos-archiso
+git clone https://github.com/PendoLinux/PendoLinux-live-iso.git PendoLinux-archiso
+cd PendoLinux-archiso
 ```
 
 ### Build
